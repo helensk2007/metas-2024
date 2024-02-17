@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(207, 91, 140);
+    color: rgb(0, 0, 0);
+    font-family:monospace
+    font-size: 40px;
+    text-align:center
+}
+.botão{
+    background-color: rgb(206, 91, 177);
+    font-size: 15px;
+    border-radius: 07px;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+}
